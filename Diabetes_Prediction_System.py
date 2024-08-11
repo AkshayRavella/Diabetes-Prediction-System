@@ -102,7 +102,7 @@ def main():
     if(selected == 'Home'):
         
         
-        st.title('Diabetes Prediction Web Application ')
+        st.title('Diabetes Prediction Web App')
 
         name = st.text_input('Enter Your Name')
         email = st.text_input('Enter Your Email')
